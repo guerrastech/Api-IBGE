@@ -27,4 +27,4 @@ Este projeto utiliza a [API IBGE](https://servicodados.ibge.gov.br/api/docs/) pa
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/guerrastech/Api-IBGE.git
